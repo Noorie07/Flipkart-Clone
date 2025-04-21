@@ -58,7 +58,7 @@ A full-featured Flipkart-inspired e-commerce solution with **admin dashboard** a
 
 1. **Clone the repository**
 ```bash
-git clone <Will be available soon>
+git clone https://github.com/cs-abhishek/Flipkart-Clone.git
 cd flipkart-clone
 
 2: Install dependencies
